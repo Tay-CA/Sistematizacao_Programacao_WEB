@@ -1,0 +1,151 @@
+body {
+    background-image: url("Pokemon_Background.jpg");
+    background-attachment: scroll;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    border-top-style: solid;
+    border-right-style: double;
+    border-bottom-style: solid;
+    border-left-style: double;
+    background-color: #e6e6ff;
+    border-radius: 30px;
+    opacity: 0.6;
+    text-align: center;
+    font-weight: bold;
+    color: #000000;
+
+}
+
+.FundoSite {
+    border-top-style: solid;
+    border-right-style: double;
+    border-bottom-style: solid;
+    border-left-style: double;
+    background-color: #e6e6ff;
+    border-radius: 30px;
+}
+
+.FundoSite h2 {
+    margin-left: 3%;
+}
+
+.FundoSite p {
+    margin-left: 10%;
+}
+
+.SobreKigurumis {
+    text-align: left;
+    margin-left: 3%;
+}
+
+.SobreKigurumis h4 {
+    margin-left: 10%;
+}
+
+.Produtos {
+    text-align: left;
+    padding: 3%;
+}
+
+.SobreProdutos {
+    margin-left: 28%;
+    margin-right: 28%;
+}
+
+.CadaProduto h2 {
+    margin-left: 3%;
+}
+
+.CadaProduto h3 {
+    text-align: center;
+}
+
+.CadaProduto h4 {
+    margin-left: 28%;
+    margin-right: 28%;
+    font-weight: bolder;
+}
+
+.CadaProduto p {
+    text-align: center;
+    margin-left: 1%;
+}
+
+.CadaProduto img {
+    max-width: 100%;
+    max-height: auto;
+    width: 765px;
+    height: auto;
+}
+
+.PackKigurumis {
+    max-width: 100%;
+    max-height: auto;
+    width: 765px;
+    height: 400px;
+}
+
+.EquipeProjeto {
+    border-top-style: solid;
+    border-right-style: double;
+    border-bottom-style: solid;
+    border-left-style: double;
+    background-color: #e6e6ff;
+    border-radius: 30px;
+    padding-left: 3%;
+}
+
+.EquipeProjeto table {
+    width: 100%;
+}
+
+.EquipeProjeto img {
+    width: 100%;
+    height: auto;
+    padding-bottom: 4%;
+}
+
+.MembroEquipe {
+    width: 85%;
+    padding-left: 2%;
+    text-align: left;
+}
+
+.MembroEquipe h5 {
+    font-weight: lighter;
+}
+
+.Form {
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 2%;
+    border-top-style: solid;
+    border-right-style: double;
+    border-bottom-style: solid;
+    border-left-style: double;
+    background-color: #e6e6ff;
+    border-radius: 30px;
+    text-align: left;
+}
+
+.OpcoesForm {
+    width: 70%;
+}
+
+.AgradecimentoForm {
+    width: auto;
+    padding: 2%;
+    margin-top: 2%;
+    border-style: dotted;
+    border-radius: 30px;
+    background-image: url("Background_Chibi.jpg");
+    background-size: cover;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+}
